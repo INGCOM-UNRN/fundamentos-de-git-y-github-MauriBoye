@@ -1,3 +1,5 @@
+# Termine este curso!
+
 # :wave: Lo básico de GitHub
 
 ## 🤓 Resumen de la actividad 
